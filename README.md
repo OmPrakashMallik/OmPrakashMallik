@@ -4,9 +4,9 @@
 Hi there, I'm <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Om Prakash Mallik</a> 👋
 </h2>
 
-<h3 align="center">
+<h2 align="center">
 I'm a Front-end Web Developer 💻!
-</h3> 
+</h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. Learning how people hide things and where people are likely to look.
 
@@ -19,6 +19,8 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://leetcode.com/OmPrakashMallik/"><img align="left" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Yu Shi | Leetcode" width="21px"/></a>
 
 <a href="https://auth.geeksforgeeks.org/user/omprakashmallik91/practice"><img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqvFVpivQkBMns3rV68nBe2xMaJaD9pStMOfdtBDRkEYH-Sy3Nns__vsVt-nM1c5KxiuM&usqp=CAU" alt="Yu Shi | GFG" width="21px"/></a>
+
+<a href="https://www.facebook.com/profile.php?id=100010378098581"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/768px-Facebook-icon-1.png" alt="Yu Shi | FB" width="21px"/></a>
 
 
 </br>
