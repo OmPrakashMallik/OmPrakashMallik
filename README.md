@@ -20,8 +20,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://leetcode.com/OmPrakashMallik/"><img align="left" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Yu Shi | Leetcode" width="21px"/></a>
 
+<a href="https://auth.geeksforgeeks.org/user/omprakashmallik91/practice"><img align="left" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="Yu Shi | GFG" width="21px"/></a>
+
+
 </br>
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+
 
 ## 🔭 I'm currently working on
 
