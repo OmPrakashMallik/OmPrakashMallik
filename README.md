@@ -7,7 +7,7 @@
 A Front-end Web Developer 💻!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. Learning how people hide things and where people are likely to look.
+I am a self-thought front-end developer and love the entire process of developing creative websites.
 
 ## 🤝 Connect with me:
 
@@ -27,8 +27,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 I'm currently working on
 
-- poke-finder project
-- anime project
+- a front-end project
 
 ## 🌱 I'm currently learning
 
@@ -54,12 +53,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-
-
-
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OmPrakashMallik&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=donut)](https://github.com/OmPrakashMallik)
 
 
-  <img align="center" src="https://cdn4.geckoandfly.com/wp-content/uploads/2013/11/234864.jpg" alt="my banner">
+
+<img align="center" src="https://cdn4.geckoandfly.com/wp-content/uploads/2013/11/234864.jpg" alt="my banner">
