@@ -1,12 +1,15 @@
 
+<h3 align="center">
+Hi there,
+</h3> 
 
 <h2 align="center">
-Hi there, I'm <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Om Prakash Mallik</a> 👋
+  I'm <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Om Prakash Mallik</a> 👋
 </h2>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Front-end Web Developer 💻!
-</h2> 
+</h3> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. Learning how people hide things and where people are likely to look.
 
