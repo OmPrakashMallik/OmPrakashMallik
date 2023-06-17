@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://cdn4.geckoandfly.com/wp-content/uploads/2013/11/234864.jpg" alt="my banner"></a>
-</p>
+
 
 <h3 align="center">
 Hi there, I'm <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Om Prakash Malliik</a> 👋
@@ -12,7 +10,7 @@ I'm a Front-end Web Developer 💻!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time meeting new people. Learning how people hide things and where people are likely to look.
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/om-prakash-mallik-774187217/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
@@ -59,3 +57,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![OmPrakashMallik's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmPrakashMallik&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=donut)](https://github.com/OmPrakashMallik/github-readme-stats)
+
+
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="https://cdn4.geckoandfly.com/wp-content/uploads/2013/11/234864.jpg" alt="my banner"></a>
+</p>
