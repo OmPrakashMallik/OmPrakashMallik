@@ -11,6 +11,8 @@ I am a self-thought front-end developer and love the entire process of developin
 
 ## 🤝 Connect with me:
 
+- Email: Omprakashmallik91@gmail.com
+
 <a href="https://www.linkedin.com/in/om-prakash-mallik-774187217/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 <a href="https://instagram.com/mallik_75"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
