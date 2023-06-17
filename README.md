@@ -63,8 +63,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OmPrakashMallik&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=compact)](https://github.com/yushi1007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=donut)](https://github.com/OmPrakashMallik)
 
 
