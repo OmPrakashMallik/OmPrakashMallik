@@ -62,6 +62,4 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=donut)](https://github.com/OmPrakashMallik)
 
 
-<p align="center">
-  <img src="https://cdn4.geckoandfly.com/wp-content/uploads/2013/11/234864.jpg" alt="my banner">
-</p>
+  <img align="center" src="https://cdn4.geckoandfly.com/wp-content/uploads/2013/11/234864.jpg" alt="my banner">
