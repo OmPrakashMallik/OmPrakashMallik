@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![OmPrakashMallik's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmPrakashMallik&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=donut)](https://github.com/OmPrakashMallik/github-readme-stats)
