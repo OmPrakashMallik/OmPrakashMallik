@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/205411672-eb589407-43a9-484a-b0cc-ed7caf280776.png" alt="my banner"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://cdn4.geckoandfly.com/wp-content/uploads/2013/11/234864.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Om Prakash Malliik</a> 👋
+Hi there, I'm <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Om Prakash Malliik</a> 👋
 </h3>
 
 <h2 align="center">
