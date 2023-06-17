@@ -58,6 +58,10 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=OmPrakashMallik)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmPrakashMallik&layout=compact)](https://github.com/yushi1007)
+
 
 ![OmPrakashMallik's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmPrakashMallik&show_icons=true&theme=transparent)
 
