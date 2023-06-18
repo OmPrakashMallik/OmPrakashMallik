@@ -4,7 +4,7 @@
 </h3>
 
 <h2 align="center">
-A Front-end Web Developer 💻!
+Programmer and Front-end Web Developer 💻!
 </h2> 
 
 I am a self-thought front-end developer and love the entire process of developing creative websites.
