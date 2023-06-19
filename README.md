@@ -23,7 +23,6 @@ I am a self-thought front-end developer and love the entire process of developin
 
 <a href="https://www.facebook.com/profile.php?id=100010378098581"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/768px-Facebook-icon-1.png" alt="Yu Shi | FB" width="21px"/></a>
 
-<a href="https://www.facebook.com/profile.php?id=100010378098581"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/768px-Facebook-icon-1.png" alt="Yu Shi | FB" width="21px"/></a>
 
 
 </br>
@@ -31,7 +30,7 @@ I am a self-thought front-end developer and love the entire process of developin
 
 ## 🔭 I'm currently working on
 
-- a front-end project
+- A front-end project
 
 ## 🌱 I'm currently learning
 
