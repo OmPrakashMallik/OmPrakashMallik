@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Hi there, I'm <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Om Prakash Mallik</a> 👋
+  Hi there, I'm <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">OM PRAKASH MALLIK</a> 👋
 </h3>
 
 <h2 align="center">
