@@ -31,6 +31,7 @@ I am a self-thought front-end developer and love the entire process of developin
 ## 🔭 I'm currently working on
 
 - A front-end project
+- <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Click here</a> to see my portfolio.
 
 ## 🌱 I'm currently learning
 
