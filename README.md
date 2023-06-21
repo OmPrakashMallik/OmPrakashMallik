@@ -32,7 +32,9 @@ I am a self-thought front-end developer and love the entire process of developin
 
 - A front-end project
 - <a href="https://opmportfolio.netlify.app/" target="_blank" rel="noreferrer">Click here</a> to see my portfolio.
-
+## My projects.
+- Portfolio
+- website
 ## 🌱 I'm currently learning
 
 - DSA with Java
